@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daleyantics
-- 👀 I’m interested in computers science in general.
+- 👀 I’m interested in computer science in general.
 - 🌱 I’m currently learning how to use python for data analytics.
 - 💞️ I’m looking to collaborate on any projects involving python.
 - 📫 How to reach me: daleyantics@gmail.com
